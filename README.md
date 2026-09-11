@@ -11,7 +11,7 @@ An Excel-based dashboard for tracking sales team performance across regions.
 
 ## How to use
 
-1. Download `Dashboard_project_day_10.xlsm`.
+1. Download `Sales-performance-dashboard.xlsm`.
 2. Open in Excel (macros enabled, since it's a `.xlsm` file).
 3. Update the **Raw data** sheet with new entries.
 4. Refresh the pivot tables to update the dashboard automatically.
